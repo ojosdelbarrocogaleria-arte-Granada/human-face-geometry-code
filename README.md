@@ -1,5 +1,5 @@
 # ─── THE ABSTRACT HUMAN PROTOCOL v1.0.0 ──
-![Physical Canvas](human-face-geometry-code.png)
+![Physical Canvas] (human-face-geometry-code.png)
 
 ## 👁️ System Architecture & Manifesto
 This repository serves as a decentralized visual framework mapping human cognitive states into alphanumeric geometry. While contemporary frameworks rely on neural network automation, this core architecture compiles non-deterministic human interaction, multidimensional textures, and physical brushstrokes directly into scalable vector software.
