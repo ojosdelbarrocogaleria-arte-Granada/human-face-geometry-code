@@ -1,4 +1,3 @@
-markdown
 ![Physical Canvas](human-face-geometry-code.png)
 
 ## 👁️ The Manifesto
