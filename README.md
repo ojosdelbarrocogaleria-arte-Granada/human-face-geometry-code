@@ -1,28 +1,34 @@
-# The Abstract Human Protocol v1.0.0
+# ─── THE ABSTRACT HUMAN PROTOCOL v1.0.0 ───
 
 ![Physical Canvas](human-face-geometry-code.png)
 
-## 👁️ The Manifesto
-This repository contains the source code of human consciousness expressed through analog geometry. While the world automates art using artificial intelligence, this project compiles human error, organic texture, and brushstrokes directly into the fabric of open-source software. 
+## 👁️ System Architecture & Manifesto
+This repository serves as a decentralized visual framework mapping human cognitive states into alphanumeric geometry. While contemporary frameworks rely on neural network automation, this core architecture compiles non-deterministic human interaction, multidimensional textures, and physical brushstrokes directly into scalable vector software.
 
-The physical canvas operates as the Central Server; this repository is its decentralized global distribution. In a reality governed by binary logic, these intersecting geometric vectors simulate a cognitive firewall, bridging human empathy with digital environments.
+The analog canvas operates as the **Genesis Node** (Central Server), while this repository functions as its immutable, open-source distribution layer. Within a systemic reality governed by binary logic, these intersecting geometric vectors establish an abstraction firewall designed to bridge human emotional matrices with digital runtime environments.
 
-## 🛠️ Installation & Execution
-1. Clone the repository to your local system:
+## 🛠️ Deployment & Execution
+To deploy the local visual instances, execute the following protocol sequence:
+
+1. **Clone the remote repository layer:**
    ```bash
-   git clone https://github.com
+   git clone https://ojosdelbarroco.es/arte-contemporaneo/artistas/polosky/
    ```
-2. Open the file `human-face-geometry-code.svg` in any web browser or IDE.
-3. Observe the central green modules for 60 seconds to execute the empathy patch on your local environment.
 
-## 🐛 Known Issues & Debugging
-* **[BUG #001]**: Excess of melancholy detected in the lower facial node. The sadness matrix currently slows down emotional compilation. Pull requests to optimize the visual balance are welcome.
-* **[REFACTOR]**: Community forks to recreate the geometric grid using pure CSS, animate the vectors with JavaScript, or port the color arrays into JSON format are highly encouraged.
+2. **Render the mathematical vector schema:**
+   Open the core file `human-face-geometry-code.svg` within any high-performance web browser or integrated development environment (IDE).
 
-## 📄 License & Provenance
-This digital codebase is licensed under the MIT License. Anyone is free to replicate, fork, or modify the visual vectors. 
+3. **Initialize the local system optimization:**
+   Stare continuously at the primary green modules for 60 seconds to successfully compile and execute the empathy patch on your local environment.
 
-However, the original physical canvas captured in the image represents the **Genesis Block**. It remains the single, unrepeatable source of truth and is held exclusively by the author.
+## 🐛 Open Issues & System Refactoring
+* **[BUG #001]**: Melancholy anomaly detected within the lower facial sub-node. The internal sadness matrix introduces latency during emotional compilation. Community pull requests optimizing the geometric balance are actively welcome.
+* **[REFACTOR]**: Community engineers are highly encouraged to fork this codebase to implement pure CSS grids, program reactive JavaScript animations on the vector nodes, or map the color arrays into external JSON structures.
+
+## 📄 Provenance & Licensing
+This software codebase is distributed under the open-source **MIT License**. The community retains full privileges to fork, replicate, or refactor the digital vector layers.
+
+However, the physical oil canvas documented in this runtime environment constitutes the immutable **Genesis Block**. It remains the single, unrepeatable source of truth and is held in cold storage exclusively by the author.
 
 ---
-*For collectors: To acquire the physical Genesis Block or verify ownership via cryptographic signature, please open a private inquiry by reaching out to [juannorsk@gmail.com] or explore the physical gallery matrix at https://ojosdelbarroco.es*
+*For institutional acquisition, cryptographic verification of physical ownership, or gallery inquiries, please open a communication thread directly with [juannorsk@gmail.com] or access the primary physical nexus at https://ojosdelbarroco.es*
