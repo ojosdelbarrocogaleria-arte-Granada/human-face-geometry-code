@@ -7,7 +7,7 @@ In a reality governed by binary logic, this piece breaks the loop. The intersect
 
 ## 🛠️ Installation & Execution
 1. Clone the repository to your local environment:
-   bash
+   ```bash
    git clone https://github.com
    ```
 2. Open the `human-face-geometry-code.svg` file in any web browser or IDE.
