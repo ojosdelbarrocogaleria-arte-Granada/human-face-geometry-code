@@ -1,4 +1,5 @@
-markdown# ─── THE ABSTRACT HUMAN PROTOCOL v1.0.0 ───
+markdown
+# ─── THE ABSTRACT HUMAN PROTOCOL v1.0.0 ───
 
 ![Physical Canvas](human-face-geometry-code.png)
 
@@ -18,4 +19,4 @@ This repository maps human cognitive states into alphanumeric geometry, treating
 Licensed under MIT. The original physical oil canvas is the immutable **Genesis Block**.
 
 ---
-*Acquisition/Inquiries: juannorsk@gmail.com | https://ojosdelbarroco.es*
+*Acquisition/Inquiries: juannorsk@gmail.com.
