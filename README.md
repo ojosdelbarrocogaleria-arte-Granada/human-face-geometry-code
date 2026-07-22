@@ -1,6 +1,5 @@
-# The Abstract Human Protocol v1.0.0
-
-human-face-geometry-code.png
+markdown
+![Physical Canvas](human-face-geometry-code.png)
 
 ## 👁️ The Manifesto
 This repository contains the source code of human consciousness expressed through analog geometry. While the world automates art using AI, this project compiles human error, texture, and brushstrokes directly into the fabric of open-source software. The physical canvas acts as the Central Server; this code is its global distribution.
@@ -9,7 +8,7 @@ In a reality governed by binary logic, this piece breaks the loop. The intersect
 
 ## 🛠️ Installation & Execution
 1. Clone the repository to your local environment:
-   ```bash
+   bash
    git clone https://github.com
    ```
 2. Open the `human-face-geometry-code.svg` file in any web browser or IDE.
