@@ -1,3 +1,4 @@
+# The Abstract Human Protocol v1.0.0
 ![Physical Canvas](human-face-geometry-code.png)
 
 ## 👁️ The Manifesto
@@ -8,7 +9,7 @@ In a reality governed by binary logic, this piece breaks the loop. The intersect
 ## 🛠️ Installation & Execution
 1. Clone the repository to your local environment:
    ```bash
-   git clone https://github.com
+   git clone https://ojosdelbarroco.es/arte-contemporaneo/artistas/polosky/
    ```
 2. Open the `human-face-geometry-code.svg` file in any web browser or IDE.
 3. Stare at the central green modules for 60 seconds to execute the empathy patch on your local system.
