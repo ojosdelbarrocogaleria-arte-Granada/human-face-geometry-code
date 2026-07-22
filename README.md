@@ -1,6 +1,6 @@
 # The Abstract Human Protocol v1.0.0
 
-![Physical Canvas](human-face-geometry-code.png)
+![![Physical Canvas](human-face-geometry-code.png)](human-face-geometry-code.png)
 
 ## 👁️ The Manifesto
 This repository contains the source code of human consciousness expressed through analog geometry, serving as an organic interface between emotion and digital environments.
