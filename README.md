@@ -2,7 +2,7 @@
 <div align="center">
   <img src="human-face-geometry-code.svg" alt="Algorithmic portrait: A human vision in alphanumeric geometry" width="500">
 </div>
-
+Algorithmic portrait: A human vision in alphanumeric geometry
 Physical Canvas
 
 ## 👁️ System Architecture & Manifesto
