@@ -1,4 +1,5 @@
-markdown# ─── THE ABSTRACT HUMAN PROTOCOL v1.0.0 ───
+markdown
+# ─── THE ABSTRACT HUMAN PROTOCOL v1.0.0 ───
 
 ![Algorithmic Portrait](human-face-geometry-code.svg)
 
