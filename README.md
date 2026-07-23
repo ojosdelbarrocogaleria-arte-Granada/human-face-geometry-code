@@ -1,9 +1,8 @@
-# ─── THE ABSTRACT HUMAN PROTOCOL v1.0.0 ──
-<div align="center">
-  <img src="human-face-geometry-code.svg" alt="Algorithmic portrait: A human vision in alphanumeric geometry" width="500">
-</div>
+markdown# ─── THE ABSTRACT HUMAN PROTOCOL v1.0.0 ───
+
+![Algorithmic Portrait](human-face-geometry-code.svg)
+
 Algorithmic portrait: A human vision in alphanumeric geometry
-Physical Canvas
 
 ## 👁️ System Architecture & Manifesto
 This repository serves as a decentralized visual framework mapping human cognitive states into alphanumeric geometry. While contemporary frameworks rely on neural network automation, this core architecture compiles non-deterministic human interaction, multidimensional textures, and physical brushstrokes directly into scalable vector software.
